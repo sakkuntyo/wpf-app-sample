@@ -71,5 +71,6 @@ namespace WpfApp1
 
     }
 }
-
 ```
+
+![image](https://github.com/sakkuntyo/wpf-app-sample/assets/20591351/62ec3145-3b8e-44df-98ea-34980eb88b04)
